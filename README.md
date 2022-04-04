@@ -1,1 +1,1 @@
-# Todo-App-Redux
+In this Project I have created a simple todo app by using React and Redux.
